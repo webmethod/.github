@@ -9,7 +9,7 @@ Van ontwikkeling, tot IT dienstverlening en security, wij kunnen uw idee transfo
 Wij zijn Webmethod. Een nuchtere web-agency uit Groningen. Met meer dan 7 jaar ervaring weten wij precies wat er goed bij jouw bedrijf past. Of het nou op webontwikkeling of managed IT dienstverlening aankomt, we komen samen altijd tot een mooie, moderne oplossing voor jouw probleem.
 
 We zijn enorm gepassioneerd door webontwikkeling en -ontwerp in al zijn vormen. Waarom? Gewoon omdat we heel graag zien hoe je de wereld kunt veranderen met slechts een paar regels code. Je kunt doen wat je wilt, er zijn geen grenzen.
-<a href="" background="red">qweq</a>
+
 ## Onze dienstverlening
 Door ons uitgebreide dienstenpakket kunnen we je uw IT-zorgen volledig uit handen nemen. Zo kan jij je focussen op de dingen die voor jou het belangrijkste zijn
 
