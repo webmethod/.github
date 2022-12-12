@@ -21,6 +21,9 @@ Hosting speelt een belangrijke rol, je website of applicatie moet natuurlijk 24/
 Hosting speelt een belangrijke rol, je website of applicatie moet natuurlijk 24/7 bereikbaar zijn voor je bezoekers. Met managed hosting van Webmethod weet je zeker dat uw website nooit offline is.
 Cybersecurity wordt met de dag belangrijker. Wij analyseren uw applicatie (pentesting) en brengen rapport uit zodat je organisatie en alle data ten alle tijden veilig zijn
 
+
+__Heeft u een security vulnerability gevonden in een door Webmethod ontwikkeld of gebruikt product? We stellen het op prijs als u uw bevinding met ons deelt door middel van onze [Coordinated Vulnerability Disclosure](https://github.com/webmethod/coordinated-vulnerability-disclosure) procedure__
+
 <p align="center">
 <a href="https://www.webmethod.nl/?ref=gh-readme-webmethod#contact">
 <img src="https://i.imgur.com/gDFyTLo.png" alt="Neem contact met ons op!">
